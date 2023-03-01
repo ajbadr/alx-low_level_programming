@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
 *main - initial hello world C
-*main output text
-*return: value of 'main' is 0
+*Description: 'the program's description
+*Return: Always 0 (Success)
 */
 int main(void)
 {
