@@ -1,6 +1,8 @@
 #include<stdio.h>
 /**
-* hello world C
+*main - initial hello world C
+*main output text
+*return: value of 'main' is 0
 */
 int main(void)
 {
